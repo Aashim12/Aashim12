@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aashim12
-- 👀 I’m interested in android based app-level projects
+- 👀 I’m interested in android based app-level projects and cloud based development.
 - 🌱 I’m currently learning native app development
 - 💞️ I’m looking to collaborate on fields related to App development and general C++ projects
 - 📫 How to reach me 
